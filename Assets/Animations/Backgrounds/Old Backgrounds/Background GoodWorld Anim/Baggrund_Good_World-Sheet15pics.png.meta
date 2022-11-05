@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: 1cec4ecd32f7a48bb800b11e5ff23b55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5794154730869699847
+    second: Baggrund_Good_World-Sheet15pics_0
+  - first:
+      213: -733037975607198272
+    second: Baggrund_Good_World-Sheet15pics_1
+  - first:
+      213: -826961465723855567
+    second: Baggrund_Good_World-Sheet15pics_2
+  - first:
+      213: -6957543535691608498
+    second: Baggrund_Good_World-Sheet15pics_3
+  - first:
+      213: -4962683686744912601
+    second: Baggrund_Good_World-Sheet15pics_4
+  - first:
+      213: -4517694344719839295
+    second: Baggrund_Good_World-Sheet15pics_5
+  - first:
+      213: 7576547509999259310
+    second: Baggrund_Good_World-Sheet15pics_6
+  - first:
+      213: 798223669668335477
+    second: Baggrund_Good_World-Sheet15pics_7
+  - first:
+      213: -4201112831176810446
+    second: Baggrund_Good_World-Sheet15pics_8
+  - first:
+      213: -7520296351228770380
+    second: Baggrund_Good_World-Sheet15pics_9
+  - first:
+      213: -6084411384573636259
+    second: Baggrund_Good_World-Sheet15pics_10
+  - first:
+      213: 9116558408456783579
+    second: Baggrund_Good_World-Sheet15pics_11
+  - first:
+      213: -3932623391957179339
+    second: Baggrund_Good_World-Sheet15pics_12
+  - first:
+      213: 8982965637595831072
+    second: Baggrund_Good_World-Sheet15pics_13
+  - first:
+      213: 7636717665946732404
+    second: Baggrund_Good_World-Sheet15pics_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 240
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Baggrund_Good_World-Sheet15pics_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705332b6709f86050800000000000000
+      internalID: 5794154730869699847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baggrund_Good_World-Sheet15pics_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdbf0158d9b3d5f0800000000000000
+      internalID: -733037975607198272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baggrund_Good_World-Sheet15pics_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dd798adea0684f0800000000000000
+      internalID: -826961465723855567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baggrund_Good_World-Sheet15pics_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e49c55407d17f90800000000000000
+      internalID: -6957543535691608498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baggrund_Good_World-Sheet15pics_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d81f6fa71012bb0800000000000000
+      internalID: -4962683686744912601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baggrund_Good_World-Sheet15pics_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfce23edeced41c0800000000000000
+      internalID: -4517694344719839295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baggrund_Good_World-Sheet15pics_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae406d61dd452960800000000000000
+      internalID: 7576547509999259310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baggrund_Good_World-Sheet15pics_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fc3e9c23cd31b00800000000000000
+      internalID: 798223669668335477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baggrund_Good_World-Sheet15pics_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230ee547326a2b5c0800000000000000
+      internalID: -4201112831176810446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baggrund_Good_World-Sheet15pics_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7c753105a82a790800000000000000
+      internalID: -7520296351228770380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baggrund_Good_World-Sheet15pics_10
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5155231514df8ba0800000000000000
+      internalID: -6084411384573636259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baggrund_Good_World-Sheet15pics_11
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 0
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6ca262295848e70800000000000000
+      internalID: 9116558408456783579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baggrund_Good_World-Sheet15pics_12
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53420076cd38c69c0800000000000000
+      internalID: -3932623391957179339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baggrund_Good_World-Sheet15pics_13
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 0
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b907257a7e9ac70800000000000000
+      internalID: 8982965637595831072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baggrund_Good_World-Sheet15pics_14
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 0
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47784b091421bf960800000000000000
+      internalID: 7636717665946732404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Baggrund_Good_World-Sheet15pics_13: 8982965637595831072
+      Baggrund_Good_World-Sheet15pics_2: -826961465723855567
+      Baggrund_Good_World-Sheet15pics_9: -7520296351228770380
+      Baggrund_Good_World-Sheet15pics_12: -3932623391957179339
+      Baggrund_Good_World-Sheet15pics_10: -6084411384573636259
+      Baggrund_Good_World-Sheet15pics_0: 5794154730869699847
+      Baggrund_Good_World-Sheet15pics_8: -4201112831176810446
+      Baggrund_Good_World-Sheet15pics_14: 7636717665946732404
+      Baggrund_Good_World-Sheet15pics_11: 9116558408456783579
+      Baggrund_Good_World-Sheet15pics_3: -6957543535691608498
+      Baggrund_Good_World-Sheet15pics_1: -733037975607198272
+      Baggrund_Good_World-Sheet15pics_5: -4517694344719839295
+      Baggrund_Good_World-Sheet15pics_6: 7576547509999259310
+      Baggrund_Good_World-Sheet15pics_7: 798223669668335477
+      Baggrund_Good_World-Sheet15pics_4: -4962683686744912601
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

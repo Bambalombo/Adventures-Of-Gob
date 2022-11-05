@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - sign
+  - screenGameText
+  - Cashier
+  - StoreItem
+  - MediumBG
+  - BadBG
+  - ShowInventory
+  - MG2050
+  - BG2021
+  - BG2050
+  - MG2021
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Terrain
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: CompleteDark
+    uniqueID: 379268231
+    locked: 0
+  - name: MiddleDark
+    uniqueID: 582514151
+    locked: 0

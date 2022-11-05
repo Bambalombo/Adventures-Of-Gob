@@ -1,0 +1,935 @@
+fileFormatVersion: 2
+guid: a978df62ac7d243909bddb014a6475ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2317323484651218914
+    second: Sheet_Baggrund_Bad_World_0
+  - first:
+      213: 7977848751341645715
+    second: Sheet_Baggrund_Bad_World_1
+  - first:
+      213: 848284408433949450
+    second: Sheet_Baggrund_Bad_World_2
+  - first:
+      213: -6189129644451575745
+    second: Sheet_Baggrund_Bad_World_3
+  - first:
+      213: -2910133919956862510
+    second: Sheet_Baggrund_Bad_World_4
+  - first:
+      213: -4211117486942985125
+    second: Sheet_Baggrund_Bad_World_5
+  - first:
+      213: 3135399557595781221
+    second: Sheet_Baggrund_Bad_World_6
+  - first:
+      213: -7045336459917426960
+    second: Sheet_Baggrund_Bad_World_7
+  - first:
+      213: -6182056286234248481
+    second: Sheet_Baggrund_Bad_World_8
+  - first:
+      213: 6064093725010039961
+    second: Sheet_Baggrund_Bad_World_9
+  - first:
+      213: -131162113702053850
+    second: Sheet_Baggrund_Bad_World_10
+  - first:
+      213: -7755602165844483495
+    second: Sheet_Baggrund_Bad_World_11
+  - first:
+      213: 5491156373555540572
+    second: Sheet_Baggrund_Bad_World_12
+  - first:
+      213: 6755339376250243435
+    second: Sheet_Baggrund_Bad_World_13
+  - first:
+      213: 6602640410778035722
+    second: Sheet_Baggrund_Bad_World_14
+  - first:
+      213: 8343242079643073837
+    second: Sheet_Baggrund_Bad_World_15
+  - first:
+      213: -2936761543566222728
+    second: Sheet_Baggrund_Bad_World_16
+  - first:
+      213: 4249118783542791617
+    second: Sheet_Baggrund_Bad_World_17
+  - first:
+      213: -4802116532997077178
+    second: Sheet_Baggrund_Bad_World_18
+  - first:
+      213: -5587064088872087210
+    second: Sheet_Baggrund_Bad_World_19
+  - first:
+      213: -7866352133480274387
+    second: Sheet_Baggrund_Bad_World_20
+  - first:
+      213: 8502681545685057415
+    second: Sheet_Baggrund_Bad_World_21
+  - first:
+      213: -2762495367090723322
+    second: Sheet_Baggrund_Bad_World_22
+  - first:
+      213: 7715880612387102154
+    second: Sheet_Baggrund_Bad_World_23
+  - first:
+      213: -93758210450520773
+    second: Sheet_Baggrund_Bad_World_24
+  - first:
+      213: -7724957187684475276
+    second: Sheet_Baggrund_Bad_World_25
+  - first:
+      213: -806661445966896226
+    second: Sheet_Baggrund_Bad_World_26
+  - first:
+      213: -5745494336571033322
+    second: Sheet_Baggrund_Bad_World_27
+  - first:
+      213: -2350319474964526383
+    second: Sheet_Baggrund_Bad_World_28
+  - first:
+      213: 3381481613563164598
+    second: Sheet_Baggrund_Bad_World_29
+  - first:
+      213: -1905178246528927503
+    second: Sheet_Baggrund_Bad_World_30
+  - first:
+      213: 3409379912606806419
+    second: Sheet_Baggrund_Bad_World_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1891b3819637dfd0800000000000000
+      internalID: -2317323484651218914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f238fbb2307be60800000000000000
+      internalID: 7977848751341645715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b3531dc26b5cb00800000000000000
+      internalID: 848284408433949450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38cf99316bcb1aa0800000000000000
+      internalID: -6189129644451575745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9f72c4e902d97d0800000000000000
+      internalID: -2910133919956862510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54e35305fa1f85c0800000000000000
+      internalID: -4211117486942985125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568d96b194d238b20800000000000000
+      internalID: 3135399557595781221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe738741dfe93e90800000000000000
+      internalID: -7045336459917426960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda7985cf8ce43aa0800000000000000
+      internalID: -6182056286234248481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99416eb2d1df72450800000000000000
+      internalID: 6064093725010039961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_10
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628bcc4a0c40e2ef0800000000000000
+      internalID: -131162113702053850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_11
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952e69dcbe09e5490800000000000000
+      internalID: -7755602165844483495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_12
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5276ebd0a1843c40800000000000000
+      internalID: 5491156373555540572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_13
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69ca921f59cfbd50800000000000000
+      internalID: 6755339376250243435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_14
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a066018a87a41ab50800000000000000
+      internalID: 6602640410778035722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_15
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d7730977629c370800000000000000
+      internalID: 8343242079643073837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_16
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a15bd8fe68e37d0800000000000000
+      internalID: -2936761543566222728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_17
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd02855507e7fa30800000000000000
+      internalID: 4249118783542791617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_18
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647cda8b4747b5db0800000000000000
+      internalID: -4802116532997077178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_19
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651107d00d2c672b0800000000000000
+      internalID: -5587064088872087210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_20
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26a5cd896a15d290800000000000000
+      internalID: -7866352133480274387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_21
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fb3d011d79ff570800000000000000
+      internalID: 8502681545685057415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_22
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60625e69915a9a9d0800000000000000
+      internalID: -2762495367090723322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_23
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd18a65980541b60800000000000000
+      internalID: 7715880612387102154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_24
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3502538767e2bef0800000000000000
+      internalID: -93758210450520773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_25
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e57facd507bc490800000000000000
+      internalID: -7724957187684475276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_26
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93e32350b92ec4f0800000000000000
+      internalID: -806661445966896226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_27
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6193aa18757e340b0800000000000000
+      internalID: -5745494336571033322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_28
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da8e0ad3ecf16fd0800000000000000
+      internalID: -2350319474964526383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_29
+      rect:
+        serializedVersion: 2
+        x: 6960
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b772f69c9f6dee20800000000000000
+      internalID: 3381481613563164598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_30
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f877d59a727f85e0800000000000000
+      internalID: -1905178246528927503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet_Baggrund_Bad_World_31
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391f74387fc805f20800000000000000
+      internalID: 3409379912606806419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sheet_Baggrund_Bad_World_24: -93758210450520773
+      Sheet_Baggrund_Bad_World_17: 4249118783542791617
+      Sheet_Baggrund_Bad_World_27: -5745494336571033322
+      Sheet_Baggrund_Bad_World_3: -6189129644451575745
+      Sheet_Baggrund_Bad_World_16: -2936761543566222728
+      Sheet_Baggrund_Bad_World_7: -7045336459917426960
+      Sheet_Baggrund_Bad_World_10: -131162113702053850
+      Sheet_Baggrund_Bad_World_25: -7724957187684475276
+      Sheet_Baggrund_Bad_World_1: 7977848751341645715
+      Sheet_Baggrund_Bad_World_31: 3409379912606806419
+      Sheet_Baggrund_Bad_World_14: 6602640410778035722
+      Sheet_Baggrund_Bad_World_4: -2910133919956862510
+      Sheet_Baggrund_Bad_World_13: 6755339376250243435
+      Sheet_Baggrund_Bad_World_11: -7755602165844483495
+      Sheet_Baggrund_Bad_World_21: 8502681545685057415
+      Sheet_Baggrund_Bad_World_2: 848284408433949450
+      Sheet_Baggrund_Bad_World_0: -2317323484651218914
+      Sheet_Baggrund_Bad_World_19: -5587064088872087210
+      Sheet_Baggrund_Bad_World_6: 3135399557595781221
+      Sheet_Baggrund_Bad_World_23: 7715880612387102154
+      Sheet_Baggrund_Bad_World_5: -4211117486942985125
+      Sheet_Baggrund_Bad_World_15: 8343242079643073837
+      Sheet_Baggrund_Bad_World_8: -6182056286234248481
+      Sheet_Baggrund_Bad_World_18: -4802116532997077178
+      Sheet_Baggrund_Bad_World_28: -2350319474964526383
+      Sheet_Baggrund_Bad_World_29: 3381481613563164598
+      Sheet_Baggrund_Bad_World_20: -7866352133480274387
+      Sheet_Baggrund_Bad_World_12: 5491156373555540572
+      Sheet_Baggrund_Bad_World_30: -1905178246528927503
+      Sheet_Baggrund_Bad_World_9: 6064093725010039961
+      Sheet_Baggrund_Bad_World_26: -806661445966896226
+      Sheet_Baggrund_Bad_World_22: -2762495367090723322
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

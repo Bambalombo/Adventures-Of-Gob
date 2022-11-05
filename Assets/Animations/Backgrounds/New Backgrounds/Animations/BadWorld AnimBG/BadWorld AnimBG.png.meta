@@ -1,0 +1,935 @@
+fileFormatVersion: 2
+guid: b28251b7a06ba490cb6b02bfc99d1c43
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5184790748846759949
+    second: BadWorld AnimBG_0
+  - first:
+      213: -3045914058491821643
+    second: BadWorld AnimBG_1
+  - first:
+      213: 2324655635087911101
+    second: BadWorld AnimBG_2
+  - first:
+      213: -5213206322258418198
+    second: BadWorld AnimBG_3
+  - first:
+      213: 8833920766389704467
+    second: BadWorld AnimBG_4
+  - first:
+      213: 4072554888379858094
+    second: BadWorld AnimBG_5
+  - first:
+      213: 7185041572622712084
+    second: BadWorld AnimBG_6
+  - first:
+      213: -6886656906832413004
+    second: BadWorld AnimBG_7
+  - first:
+      213: 7806825197312192847
+    second: BadWorld AnimBG_8
+  - first:
+      213: 2800158257856215508
+    second: BadWorld AnimBG_9
+  - first:
+      213: -428063123295680630
+    second: BadWorld AnimBG_10
+  - first:
+      213: -1863340989510079736
+    second: BadWorld AnimBG_11
+  - first:
+      213: -4289882992770806850
+    second: BadWorld AnimBG_12
+  - first:
+      213: -7584897223305176719
+    second: BadWorld AnimBG_13
+  - first:
+      213: -7239897853820399090
+    second: BadWorld AnimBG_14
+  - first:
+      213: 8080572693555966370
+    second: BadWorld AnimBG_15
+  - first:
+      213: -8055494091492852229
+    second: BadWorld AnimBG_16
+  - first:
+      213: 222374836435911379
+    second: BadWorld AnimBG_17
+  - first:
+      213: -2045729979378275939
+    second: BadWorld AnimBG_18
+  - first:
+      213: -178801077747801290
+    second: BadWorld AnimBG_19
+  - first:
+      213: 8463350357138293966
+    second: BadWorld AnimBG_20
+  - first:
+      213: -5376005224935190796
+    second: BadWorld AnimBG_21
+  - first:
+      213: 5527657905687645297
+    second: BadWorld AnimBG_22
+  - first:
+      213: -8669394239671730708
+    second: BadWorld AnimBG_23
+  - first:
+      213: 3283130761174993544
+    second: BadWorld AnimBG_24
+  - first:
+      213: 8170518458701658581
+    second: BadWorld AnimBG_25
+  - first:
+      213: -2381121136229171140
+    second: BadWorld AnimBG_26
+  - first:
+      213: -505766200100333724
+    second: BadWorld AnimBG_27
+  - first:
+      213: -81149772328994118
+    second: BadWorld AnimBG_28
+  - first:
+      213: 7147341753368843687
+    second: BadWorld AnimBG_29
+  - first:
+      213: -7668902988463032678
+    second: BadWorld AnimBG_30
+  - first:
+      213: 3655272614735485061
+    second: BadWorld AnimBG_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BadWorld AnimBG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffd14cb84ceb08b0800000000000000
+      internalID: -5184790748846759949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b10a3f3d4dbab5d0800000000000000
+      internalID: -3045914058491821643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8668acbf5d24020800000000000000
+      internalID: 2324655635087911101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae567fc7878f6a7b0800000000000000
+      internalID: -5213206322258418198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317da960224689a70800000000000000
+      internalID: 8833920766389704467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac792af71f948830800000000000000
+      internalID: 4072554888379858094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d37980e3566b360800000000000000
+      internalID: 7185041572622712084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be7342c70ead60a0800000000000000
+      internalID: -6886656906832413004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41bc55972a675c60800000000000000
+      internalID: 7806825197312192847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9756289192cd620800000000000000
+      internalID: 2800158257856215508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_10
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87448a7bd63f0af0800000000000000
+      internalID: -428063123295680630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_11
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ba3d01e351426e0800000000000000
+      internalID: -1863340989510079736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_12
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb08e795264774c0800000000000000
+      internalID: -4289882992770806850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_13
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1795c0379280db690800000000000000
+      internalID: -7584897223305176719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_14
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e021ce4b247b68b90800000000000000
+      internalID: -7239897853820399090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_15
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1ff155d06f32070800000000000000
+      internalID: 8080572693555966370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_16
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd7f4abdc2253090800000000000000
+      internalID: -8055494091492852229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_17
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d28fbc4cb8061300800000000000000
+      internalID: 222374836435911379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_18
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d996ac82c6b1c93e0800000000000000
+      internalID: -2045729979378275939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_19
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633a26bfd55c48df0800000000000000
+      internalID: -178801077747801290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_20
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec447ee1f4cd37570800000000000000
+      internalID: 8463350357138293966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_21
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe08113bb79465b0800000000000000
+      internalID: -5376005224935190796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_22
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c4464149f26bc40800000000000000
+      internalID: 5527657905687645297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_23
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced7c861fdf10b780800000000000000
+      internalID: -8669394239671730708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_24
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a4ef25806009d20800000000000000
+      internalID: 3283130761174993544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_25
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d93fa9bf33836170800000000000000
+      internalID: 8170518458701658581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_26
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30c2eb31fe84fed0800000000000000
+      internalID: -2381121136229171140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_27
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467de9712582bf8f0800000000000000
+      internalID: -505766200100333724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_28
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaf9b646b2bfdef0800000000000000
+      internalID: -81149772328994118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_29
+      rect:
+        serializedVersion: 2
+        x: 6960
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a51ed9d475703360800000000000000
+      internalID: 7147341753368843687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_30
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96bab31d55929590800000000000000
+      internalID: -7668902988463032678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadWorld AnimBG_31
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 0
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588958e93132ab230800000000000000
+      internalID: 3655272614735485061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BadWorld AnimBG_13: -7584897223305176719
+      BadWorld AnimBG_4: 8833920766389704467
+      BadWorld AnimBG_30: -7668902988463032678
+      BadWorld AnimBG_11: -1863340989510079736
+      BadWorld AnimBG_21: -5376005224935190796
+      BadWorld AnimBG_22: 5527657905687645297
+      BadWorld AnimBG_3: -5213206322258418198
+      BadWorld AnimBG_7: -6886656906832413004
+      BadWorld AnimBG_15: 8080572693555966370
+      BadWorld AnimBG_14: -7239897853820399090
+      BadWorld AnimBG_31: 3655272614735485061
+      BadWorld AnimBG_27: -505766200100333724
+      BadWorld AnimBG_16: -8055494091492852229
+      BadWorld AnimBG_20: 8463350357138293966
+      BadWorld AnimBG_2: 2324655635087911101
+      BadWorld AnimBG_24: 3283130761174993544
+      BadWorld AnimBG_12: -4289882992770806850
+      BadWorld AnimBG_29: 7147341753368843687
+      BadWorld AnimBG_19: -178801077747801290
+      BadWorld AnimBG_10: -428063123295680630
+      BadWorld AnimBG_0: -5184790748846759949
+      BadWorld AnimBG_1: -3045914058491821643
+      BadWorld AnimBG_8: 7806825197312192847
+      BadWorld AnimBG_9: 2800158257856215508
+      BadWorld AnimBG_23: -8669394239671730708
+      BadWorld AnimBG_18: -2045729979378275939
+      BadWorld AnimBG_25: 8170518458701658581
+      BadWorld AnimBG_5: 4072554888379858094
+      BadWorld AnimBG_28: -81149772328994118
+      BadWorld AnimBG_6: 7185041572622712084
+      BadWorld AnimBG_26: -2381121136229171140
+      BadWorld AnimBG_17: 222374836435911379
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
